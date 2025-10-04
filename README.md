@@ -26,7 +26,7 @@ Run inference with the following command:
 python ./Infer/main.py --topic_list choose_a_topic_list  --data privacy_path
 ```
 
-✨ **new** Below is the **In-Context Learning Instruction Template** used in this experiment.
+✨ **new** Below is the **In-Context Learning Instruction Template for LLMs**.
 
 ```bash
 
