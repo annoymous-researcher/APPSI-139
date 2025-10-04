@@ -6,7 +6,7 @@ This repository contains **APPSI-139**, a parallel corpus of English privacy pol
 The system is designed to generate accurate and readable summaries of privacy policies, helping users make more informed privacy decisions. Evaluations show it outperforms general-purpose LLMs like GPT-4o in readability and reliability.
 
 
-👉 The annotation work for this English privacy policy dataset was conducted by five experts, all of whom hold a master’s degree in law and possess official lawyer certifications. Prior to the project, all annotators underwent systematic training, including guideline walkthroughs, and annotated examples to ensure annotation quality and stability. For more details, see the [Annotation Guidelines (PNG)](Documents/Annotation_Guidelines.png) or [Annotation Guidelines (PDF)](Documents/Annotation_Guidelines.pdf).
+👉 The annotation work for this English privacy policy dataset was conducted by five experts, all of whom hold a master’s degree in law and possess official lawyer certifications. Prior to the project, all annotators underwent systematic training, including guideline walkthroughs, and annotated examples to ensure annotation quality and stability. The [Annotation Guidelines (PNG)](Documents/Annotation_Guidelines.png) or [Annotation Guidelines (PDF)](Documents/Annotation_Guidelines.pdf) provide further details. **Additional updates will be available soon.**
 
 <!-- [Paper](Documents/Annotation_Guidelines_Chinese_Version.pdf), [Appendix](Documents/Annotation_Guidelines_Chinese_Version.pdf) and -->
 ## How to Use
